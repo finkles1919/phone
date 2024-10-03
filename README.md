@@ -1,1 +1,7 @@
 # phone
+{
+  "serialNumbers": [
+    "FFWYWHKJKXKQ",
+    "DNPYPAGDKXKN"
+]
+}
